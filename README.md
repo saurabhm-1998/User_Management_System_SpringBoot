@@ -29,10 +29,15 @@ The Repository layer manages the data storage and retrieval. In this application
 This project uses an in-memory data storage approach, using ArrayList in Java to store user data. The User class contains the following attributes:
 
 id: unique identifier for each user.
+
 name: name of the user.
+
 UserName: email address of the user.
+
 phone: phone number of the user.
+
 address: address of the user.
+
 The User class also includes appropriate getters and setters for these attributes.
 
 ## Data Structured Used
